@@ -1,3 +1,5 @@
+# interface/__init__.py
+
 def leiaInt(msg):
     while True:
         try:

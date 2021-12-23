@@ -1,3 +1,5 @@
+# arquivo/__init__.py
+
 from Desafio115.lib.interface import *
 
 

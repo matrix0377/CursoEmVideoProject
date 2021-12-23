@@ -1,13 +1,15 @@
-José; 35
-Gustavo; 41
-Ana Maria; 35
-Adriana Amaral; 39
-Beto; 29
-Sandra Ferreira; 40
-Neusa amaral; 75
-Davi Augusto; 44
-Nilva Ferreira; 65
-Leandro Cortes; 45
-Alexya Lima; 21
-Jose Augusto; 65
-Marcos Augusto; 43
+Alex Master; 30
+Oliver Queen; 25
+Peter Parker; 20
+Bruce Wayne; 30
+Diana Prince; 25
+Arthur Curry; 30
+Clint Barton; 35
+Natasha Romanoff; 25
+Logan; 40
+Tony Stark; 35
+Steve Rogers; 40
+Bruce Banner; 35
+Billy Batson; 20
+Damian Wayne; 17
+Ajax John Jones; 35
